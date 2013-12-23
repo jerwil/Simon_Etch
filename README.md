@@ -18,7 +18,7 @@ My take on the electronic game "Simon"
 
 ## Blog post
 
-* [View the associated blog post here](http://www.jeremyadamwilson.com/simon-game-soldered/)
+* [View the associated blog post here](http://www.jeremyadamwilson.com/arduino-simon-final/)
 
 ## Requirements
 
