@@ -25,12 +25,16 @@ My take on the electronic game "Simon"
 ### Hardware
 
 * Arduino Uno for programming
-* ATmega328
-* Perforated board & hookup wire
-* 8 x 220 ohm resistors
+* ATMega328 chip
+* 1-sided copper board
+* 8 x 220 ohm resistor
 * 4 leds (different colors preferred)
 * 4 tact buttons
 * Buzzer
+* 5V regulator
+* 16 mHz crystal
+* 2 x 10 mF capacitors
+* 2 x 22 pF ceramic capacitors
 * Soldering iron and solder
 
 ### Schematics
